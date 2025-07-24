@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>液态玻璃游戏</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="game-title">
+            <h1>液态玻璃游戏</h1>
+            <p>点击开始，体验Apple液态玻璃效果</p>
+        </div>
+        
+        <div class="game-area">
+            <div class="liquid-glass-container">
+                <div class="liquid-glass-effect" id="liquidGlass"></div>
+                <div class="game-content">
+                    <div class="score-display">分数: <span id="score">0</span></div>
+                    <div class="target" id="target"></div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="controls">
+            <button id="startButton" class="glass-button">开始游戏</button>
+            <button id="resetButton" class="glass-button">重置</button>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

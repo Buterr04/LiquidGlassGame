@@ -6,6 +6,8 @@
 
 一个基于Web的小游戏，采用Apple最新的Liquid Glass液态玻璃设计效果。这个游戏结合了现代UI设计趋势和简单有趣的游戏玩法，展示了如何在Web应用中实现高级视觉效果。
 
+使用[TencentCodebuddy](https://www.codebuddy.ai)协作完成
+
 ## 预览
 
 ![游戏预览](images/game-preview.png)
@@ -28,12 +30,12 @@
 
 1. 克隆仓库到本地：
    ```bash
-   git clone https://github.com/Buterr04/liquid-glass-game.git
+   git clone https://github.com/Buterr04/LiquidGlassGame.git
    ```
 
 2. 进入项目目录：
    ```bash
-   cd liquid-glass-game
+   cd LiquidGlassGame
    ```
 
 3. 使用任何HTTP服务器启动项目，例如：
@@ -100,7 +102,7 @@
 
 ## 作者
 
-[Buterr04] 
+[Buterr04](https://github.com/Buterr04)
 
 ---
 

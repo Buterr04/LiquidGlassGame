@@ -8,7 +8,7 @@
 
 ## 预览
 
-![游戏预览](https://via.placeholder.com/800x450.png?text=液态玻璃游戏预览)
+![游戏预览](images/game-preview.png)
 
 ## 特点
 
